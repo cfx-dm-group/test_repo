@@ -1,1 +1,1 @@
-Alter table d_account add column grouped_acct_name character varying (100);
+Alter table d_account_ add column grouped_acct_name character varying (100);
