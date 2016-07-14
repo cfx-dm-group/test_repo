@@ -1,1 +1,0 @@
-Alter table d_account add column grouped_acct_name character varying (100);
